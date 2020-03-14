@@ -46,3 +46,5 @@ group :development do
   gem 'spring'
 end
 
+gem 'web_console'
+gem 'awesome_print'
